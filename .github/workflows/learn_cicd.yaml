@@ -11,8 +11,3 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-P
